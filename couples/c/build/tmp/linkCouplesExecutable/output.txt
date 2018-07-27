@@ -1,0 +1,4 @@
+See file:///mnt/c/users/prote/algorithms/couples/c/build/tmp/linkCouplesExecutable/output.txt for all output for linkCouplesExecutable.
+linking couples successful.
+
+Finished linkCouplesExecutable, see full log file:///mnt/c/users/prote/algorithms/couples/c/build/tmp/linkCouplesExecutable/output.txt.

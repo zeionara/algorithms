@@ -1,0 +1,16 @@
+-x
+c
+-c
+-I
+/mnt/c/users/prote/algorithms/couples/c/src/couples/headers
+-isystem
+/usr/lib/gcc/x86_64-linux-gnu/7/include
+-isystem
+/usr/local/include
+-isystem
+/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed
+-isystem
+/usr/include/x86_64-linux-gnu
+-isystem
+/usr/include
+-m64

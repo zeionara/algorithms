@@ -1,0 +1,17 @@
+apply plugin: 'c'
+
+model {
+	components {
+		couples (NativeExecutableSpec){
+			sources {
+				c {
+					source {
+						srcDirs "src"
+						include "**/*.c"
+					}
+				}
+			}
+		}
+	}
+}
+

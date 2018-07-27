@@ -1,0 +1,19 @@
+apply plugin: "java"
+
+sourceSets {
+
+	main {
+		java {
+			srcDirs = ['src']
+			outputDir = file('build')
+		} 
+	}
+}
+
+jar {
+	manifest {
+		attributes 'Main-Class' : 'zeionara.couples.Main'
+	}
+}
+
+

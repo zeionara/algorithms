@@ -1,0 +1,7 @@
+-o
+/mnt/c/users/prote/algorithms/couples/c/build/exe/couples/couples
+/mnt/c/users/prote/algorithms/couples/c/build/objs/couples/couplesC/3wkji6rm5n6cv9jtptwtiswna/pref.o
+/mnt/c/users/prote/algorithms/couples/c/build/objs/couples/couplesC/7lb1rpxfufwyieba8j3movvyx/main.o
+/mnt/c/users/prote/algorithms/couples/c/build/objs/couples/couplesC/a1hpny2xsb1f1ywp7pypgs4f0/arrays.o
+/mnt/c/users/prote/algorithms/couples/c/build/objs/couples/couplesC/aqjaqztwttigb8v18m1v86m4j/free_men.o
+-m64

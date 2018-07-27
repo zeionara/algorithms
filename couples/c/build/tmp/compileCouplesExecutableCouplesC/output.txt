@@ -1,0 +1,10 @@
+See file:///mnt/c/users/prote/algorithms/couples/c/build/tmp/compileCouplesExecutableCouplesC/output.txt for all output for compileCouplesExecutableCouplesC.
+compiling arrays.c successful.
+
+compiling pref.c successful.
+
+compiling free_men.c successful.
+
+compiling main.c successful.
+
+Finished compileCouplesExecutableCouplesC, see full log file:///mnt/c/users/prote/algorithms/couples/c/build/tmp/compileCouplesExecutableCouplesC/output.txt.
